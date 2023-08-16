@@ -2,18 +2,18 @@ import os
 import paramiko
 
 # Define the SSH connection parameters
-hostname = '172.30.2.29' #'linux_server_ip_address'
-username = 'teradm' #'your_linux_username'
-password = 'Groundstation-51' #'your_linux_password'
+hostname = 'linux_server_ip_address'
+username = 'your_linux_username'
+password = 'your_linux_password'
 
 # Define the remote and local directories
 # noaa 19
-#remote_dir = '/home/teradm/datagapfilling/noaa19'
-#local_dir = r'E:\D BackUp\PPL Works\Vivek\Metop1Data\Metop1_Data_for_GapFilling\noaa19'
+#remote_dir = 'source_path'
+#local_dir = 'destinatio_path'
 # Metop-1
 #remote_dir = '/home/teradm/datagapfilling/MetopOneYear22'
-remote_dir = '/home/teradm/datagapfilling'
-local_dir = r'E:\D BackUp\PPL Works\Vivek\Metop1Data\Metop1_Data_for_GapFilling'
+remote_dir = 'source_path'
+local_dir = 'destinatio_path'
 
 # Create an SSH client and connect to the Linux server
 ssh = paramiko.SSHClient()
