@@ -1,0 +1,15 @@
+Sector	minLAT	maxLAT	minLON	maxLON
+Gujarat	20.1763	23.8830	65.4861	72.9916
+Maharastra	15.71	20.04	70.51	73.71
+Goa	14.86	15.71	71.58	75.04
+Karnataka	12.81	14.87	71.58	75.04
+Lakshadweep	8.065	12.32	71.29	74.05
+Kerala	7.38	12.79	74.24	77.19
+South TamilNadu	7.016	10.07	77.19	81.33
+North TamilNadu	10.08	13.51	79.03	82.38
+South AndhraPradesh	13.51	16.53	79.88	83.55
+North AndhraPradesh	16.60	19.13	82.19	85.90
+WestBengal	20.69	22.22	87.53	89
+Orissa	19.16	22.23	84.80	89.0
+Andaman	10.07	15.24	91.52	94.5
+Nicobar	6.34	10.07	92.13	94.78
